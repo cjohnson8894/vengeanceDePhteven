@@ -1,10 +1,22 @@
 #headerWrapper {
   margin: 0;
   background-color: #595858;
+  color: #FFFFFF;
   width: 100%;
-  height: 25px;
+  height: 60px;
+  position: sticky;
+}
+
+h1 {
+  padding: 5px;
 }
 
 body {
-  color: #FFFFFF;
+  margin: 0;
+}
+
+p {
+  color: #595858;
+  font-size: 13pt;
+  margin: 20px;
 }
