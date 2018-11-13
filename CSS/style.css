@@ -13,10 +13,33 @@ h1 {
 
 body {
   margin: 0;
+  width: 100%;
 }
 
 p {
   color: #595858;
   font-size: 13pt;
   margin: 20px;
+}
+
+img {
+  margin: auto;
+  padding: 10px;
+  background-color: #D2D1D1;
+  position: relative;
+  left: 25%;
+}
+
+h3 {
+  margin: 20px;
+}
+
+h2 {
+  position: relative;
+  left: 20px;
+}
+
+ul {
+  position: relative;
+  bottom: 10px;
 }
